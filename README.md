@@ -3,7 +3,7 @@
 image crawing google 
 
 <h3>! To start with... </h3>
-1. pip install selenium
+1. pip install selenium <br>
 2. get chrome driver that matches with your os
 
 <h3>References</h3>
