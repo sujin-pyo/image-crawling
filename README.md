@@ -7,5 +7,5 @@ image crawing google
 2. get chrome driver that matches with your os
 
 <h3>References</h3>
-* Youtube - https://www.youtube.com/watch?v=1b7pXC1-IbE
+* Youtube - https://www.youtube.com/watch?v=1b7pXC1-IbE <br>
 * Github page - https://github.com/youtube-jocoding/python-selenium-google-image-crawling
