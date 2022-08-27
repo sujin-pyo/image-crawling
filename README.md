@@ -1,5 +1,4 @@
-# image-crawling
-<h1>python selenium Image Crawling </h1>
+#python selenium image crawling
 image crawing google 
 
 <h3>! To start with... </h3>
